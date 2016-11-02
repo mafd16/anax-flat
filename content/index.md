@@ -1,16 +1,28 @@
 ---
 titleBreadcrumb: Home
+
+views:
+    byline:
+        region: after-main
+        template: default/content
+        sort: 1
+        data:
+            meta:
+                type: content
+                route: block/byline
 ...
-A website using Anax Flat
+Anax Flat
 ===============================
 
-Martins Anax-flat-sida!
+Hej, och välkommen till Martins Anax-flat-sida!
 
-Hi there.
+Denna hemsida är skapad med Anax Flat som bas. Sidan används i dbwebb-kursen *design*.
 
-Nice of you to stop by.
+Jag som gjort sidan heter Martin och är en 33-åring boendes i örebro. Jag har tidigare pluggat matematik, och utökar nu mina kunskaper med webbprogrammering.
 
-This is a website created using Anax Flat as a base. This is the base website to be used in the dbwebb course *design*.
+På fritiden sysslar jag med orientering, Turf, friluftsliv, släktforskning, och
+en hel del annat.
 
-Cheers and happy building of websites,  
-/Mikael
+<img width="200px" src="http://www.student.bth.se/~mafd16/dbwebb-kurser/htmlphp/me/kmom06/me6/img/me.jpg" alt="Martin"></p>
+
+/Martin

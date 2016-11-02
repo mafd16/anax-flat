@@ -1,4 +1,4 @@
-About cookies
+Kakor
 ==============================================
 
-What about cookies?
+Ät dom inte!

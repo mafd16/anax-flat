@@ -1,12 +1,30 @@
-About this site
+---
+titleBreadcrumb: Home
+
+views:
+    byline:
+        region: after-main
+        template: default/content
+        sort: 1
+        data:
+            meta:
+                type: content
+                route: block/byline
+    flash:
+        region: flash
+        template: default/image
+        data:
+            src: "img/janloof.png"
+...
+
+Om denna hemsidan
 ==============================================
 
-ABOUTABOUTABOUTABOUTABOUT
+Detta är en sida som är en del i kursen [Design](http://dbwebb.se/design) på programmet webbprogrammering vid BTH.
 
-The primary focus of this site is to:
+Vi använder ramverket anax-flat, som du kan hitta på GitHub: [canax/anax-flat](https://github.com/canax/anax-flat).
 
-* To be used in teaching the [dbwebb course design](http://dbwebb.se/design).
+Sidan byggs av Martin Fagerlund som är student på programmet.
+Sidan går också att finna på [GitHub](https://github.com/mafd16/anax-flat).
 
-The source for this site is available on GitHub in [canax/anax-flat](git@github.com:canax/anax-flat.git).
-
-This site is produced by [Mikael Roos](https://mikaelroos.se) (mos@dbwebb.se).
+<img src="img/testbild.jpg" alt="svt testbild" style="width: 200px">
