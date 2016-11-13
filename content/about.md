@@ -20,11 +20,12 @@ views:
 Om denna hemsidan
 ==============================================
 
-Detta är en sida som är en del i kursen [Design](http://dbwebb.se/design) på programmet webbprogrammering vid BTH.
+Detta är en sida som är en del i kursen [Design](http://dbwebb.se/design) på programmet webbprogrammering vid BTH. Sidan byggs av Martin Fagerlund som är student på programmet.
 
 Vi använder ramverket anax-flat, som du kan hitta på GitHub: [canax/anax-flat](https://github.com/canax/anax-flat).
 
-Sidan byggs av Martin Fagerlund som är student på programmet.
-Sidan går också att finna på [GitHub](https://github.com/mafd16/anax-flat).
+Sidan går att finna på [mafd16/anax-flat](https://github.com/mafd16/anax-flat).
 
-<img src="img/testbild.jpg" alt="svt testbild" style="width: 200px">
+Temat för sidan finns på [mafd16/anax-flat-theme](https://github.com/mafd16/anax-flat-theme).
+
+<img class="testbild" src="img/testbild.jpg" alt="svt testbild">

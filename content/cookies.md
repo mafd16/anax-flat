@@ -1,4 +1,4 @@
-Kakor
+Cookies
 ==============================================
 
-Ät dom inte!
+Du kan läsa om kakor på [Post- och telestyrelsens hemsida](https://www.pts.se/cookies).
