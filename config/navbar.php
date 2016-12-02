@@ -44,6 +44,7 @@ return [
                 "url"   => $this->di->get("url")->create("typography"),
                 "title" => t("Typography")
             ],
+
             "analysis" => [
                 "text"  => t("Analysis"),
                 "url"   => $this->di->get("url")->create("analysis"),
@@ -101,6 +102,7 @@ return [
                 "url"   => $this->di->get("url")->create("typography"),
                 "title" => t("Typography")
             ],
+
             "analysis" => [
                 "text"  => t("Analysis"),
                 "url"   => $this->di->get("url")->create("analysis"),
