@@ -50,7 +50,7 @@ This first picture shows my tools for working!
 
 This second picture shows my colorchooser!
 
-[FIGURE src="image/screenshot2.png?w=300&h=300&crop-to-fit&area=10,20,30,30" caption="width 300, height 300, crop-to-fit, area 10,20,30,30."]
+[FIGURE src="image/screenshot2.PNG?w=300&h=300&crop-to-fit&area=10,20,30,30" caption="width 300, height 300, crop-to-fit, area 10,20,30,30."]
 
 
 
