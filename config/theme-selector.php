@@ -66,11 +66,27 @@ return [
             ]
         ],
         "separator2" => "------------------------------------------------",
-        "fun"       => [
-            "title"      => "All fun, test and play, make it stand out!",
-            "class"      => "fun",
+        "volume"       => [
+            "title"      => "A theme with depth, volume, shadows!",
+            "class"      => "volume",
             "stylesheets" => [
-                "css/light.min.css",
+                "css/volume.min.css",
+                "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+            ]
+        ],
+        "movement"       => [
+            "title"      => "A theme with movement and rotation!",
+            "class"      => "movement",
+            "stylesheets" => [
+                "css/movement.min.css",
+                "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+            ]
+        ],
+        "pattern"       => [
+            "title"      => "A theme with pattern!",
+            "class"      => "pattern",
+            "stylesheets" => [
+                "css/pattern.min.css",
                 "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
             ]
         ],

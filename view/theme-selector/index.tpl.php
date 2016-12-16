@@ -15,7 +15,9 @@ $themes = [
     "colorful"  => "Make a very colorful theme",
     "typography" => "A theme where the typography really stands out",
     "separator1" => $separator,
-    "fun"       => "All fun, test and play, make it stand out!",
+    "volume"     => "A theme with depth, volume, shadows!",
+    "movement"   => "A theme with movement and rotation",
+    "pattern"    => "A theme with pattern",
 ];
 
 
@@ -54,7 +56,7 @@ $message = $this->di->session->readOnce("theme-message");
                 </option>
             <?php endforeach; ?>
         </select>
-        
+
         <output>
             <?php if ($message) : ?>
                 <p><?= $message ?></p>

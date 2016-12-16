@@ -28,4 +28,4 @@ Sidan går att finna på [mafd16/anax-flat](https://github.com/mafd16/anax-flat)
 
 Temat för sidan finns på [mafd16/anax-flat-theme](https://github.com/mafd16/anax-flat-theme).
 
-<img class="testbild" src="img/testbild.jpg" alt="svt testbild">
+<img class="testbild rotateright" src="img/testbild.jpg" alt="svt testbild">

@@ -23,6 +23,6 @@ Jag som gjort sidan heter Martin och är en 33-åring boendes i örebro. Jag har
 På fritiden sysslar jag med orientering, Turf, friluftsliv, släktforskning, och
 en hel del annat.
 
-<img width="200px" src="http://www.student.bth.se/~mafd16/dbwebb-kurser/htmlphp/me/kmom06/me6/img/me.jpg" alt="Martin"></p>
+<img class="rotateleft" width="200px" src="http://www.student.bth.se/~mafd16/dbwebb-kurser/htmlphp/me/kmom06/me6/img/me.jpg" alt="Martin"></p>
 
 /Martin

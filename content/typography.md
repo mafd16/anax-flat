@@ -50,6 +50,6 @@ och en numrerad lista
 
 #### H4-överskrift, bild:
 
-<img class="testbild" src="img/testbild.jpg" alt="svt testbild">
+<img class="testbild rotateleft" src="img/testbild.jpg" alt="svt testbild">
 
 Detta är samma bild som på about-sidan.

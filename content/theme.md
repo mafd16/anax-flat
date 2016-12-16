@@ -1,5 +1,5 @@
 ---
-titleBreadcrumb: Home
+titleBreadcrumb: Om teman
 
 views:
     byline:
@@ -24,7 +24,7 @@ Om teman på denna sidan
 
 [Temaväljare](theme-selector)
 
-På denna sidan beskriver jag varje anpassat tema som jag nu har skapat. Jag beskriver och visar den färgpalett jag använt. 
+På denna sidan beskriver jag varje anpassat tema som jag nu har skapat. Jag beskriver och visar den färgpalett jag använt.
 
 Base
 ----
