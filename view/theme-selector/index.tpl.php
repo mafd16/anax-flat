@@ -18,6 +18,10 @@ $themes = [
     "volume"     => "A theme with depth, volume, shadows!",
     "movement"   => "A theme with movement and rotation",
     "pattern"    => "A theme with pattern",
+    "separator2" => $separator,
+    "designelements1" => "A theme with designelements!",
+    "designelements2" => "A theme with designelements!",
+    "designelements3" => "A theme with designelements!",
 ];
 
 

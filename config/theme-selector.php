@@ -90,5 +90,30 @@ return [
                 "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
             ]
         ],
+        "separator3" => "------------------------------------------------",
+        "designelements1"       => [
+            "title"      => "A theme with designelements!",
+            "class"      => "design1",
+            "stylesheets" => [
+                "css/designelements.min.css",
+                "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+            ]
+        ],
+        "designelements2"       => [
+            "title"      => "A theme with designelements!",
+            "class"      => "design2",
+            "stylesheets" => [
+                "css/designelements.min.css",
+                "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+            ]
+        ],
+        "designelements3"       => [
+            "title"      => "A theme with designelements!",
+            "class"      => "design3",
+            "stylesheets" => [
+                "css/designelements.min.css",
+                "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+            ]
+        ],
     ]
 ];
